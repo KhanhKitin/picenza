@@ -161,7 +161,7 @@ body {
   line-height: 80px;
   color: #941e1e;
 }
-.contain-location .location-left .content-location h4{
+.contain-location .location-left .content-location h4 {
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -220,6 +220,8 @@ body {
   }
   .form-policy .bg-form-policy {
     background-image: url('img/form_policy_mobile.png');
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .form-policy .bg-form-policy .contain-input {
     margin: 10px 0px;
@@ -275,7 +277,7 @@ body {
     font-size: 29px;
     line-height: 36px;
   }
-  .contain-location .location-left .content-location h4{
+  .contain-location .location-left .content-location h4 {
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
@@ -287,7 +289,7 @@ body {
   .contain-location .location-right {
     background-image: url('img/location_right_mobile.png');
     height: 316px;
-  } 
+  }
   .pt-mobile-20 {
     padding-top: 25px;
   }
