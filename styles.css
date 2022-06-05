@@ -238,7 +238,8 @@
   }
   .visit-form .bg-form-policy {
     border-radius: 8px;
-    padding: 80px 16px;
+    padding: 80px 16px 37px;
+    background-size: 100%;
   }
   .visit-form .bg-form-policy h3 {
     font-size: 16px;
