@@ -318,6 +318,10 @@ body {
 .hide-mobile {
   display: block;
 }
+.navbar-toggler {
+  background: linear-gradient(180deg, #F4FF00 -55%, #FF836F 130%, #FF4222 130%);
+  border-radius: 4px;
+}
 
 @media only screen and (max-width: 768px) {
   /* css menu */
