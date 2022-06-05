@@ -47,13 +47,10 @@
 
 .contain-gallery .img-gallery-left {
   max-width: 100%;
-}
-
-.contain-gallery .img-gallery-left img {
-  max-width: 100%;
-  max-height: 100%;
-  -o-object-fit: contain;
-     object-fit: contain;
+  height: 100%;
+  background-image: url("/img/ga_1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .contain-gallery .gallery-content {
@@ -88,6 +85,8 @@
 .visit-form .bg-form-policy {
   border: none;
   border-radius: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .visit-form .bg-form-policy {
