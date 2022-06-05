@@ -309,7 +309,6 @@ body {
   display: block;
 }
 
-
 @media only screen and (max-width: 768px) {
   /* css menu */
   .contain-menu .logo {
@@ -457,6 +456,9 @@ body {
   }
   .hide-desktop {
     display: block;
+  }
+  .contain-product {
+    height: auto;
   }
   .contain-product .list-product-mobile {
     background-color: #992828;
