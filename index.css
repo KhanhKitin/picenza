@@ -212,6 +212,14 @@ body {
   padding-top: 50px;
   padding-bottom: 10px;
 }
+.contain-ground .title-ground h4 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 42px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
 .contain-ground .banner-ground {
   background-image: url('img/banner_ground.png');
   background-position: center center;
@@ -441,6 +449,13 @@ body {
   .contain-ground .title-ground {
     padding-top: 25px;
     padding-bottom: 7px;
+  }
+  .contain-ground .title-ground h4 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    padding-top: 20px;
+    padding-bottom: 10px;
   }
   .contain-ground .banner-ground {
     background-image: url('img/banner_ground_mobile.png');
